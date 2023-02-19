@@ -1,2 +1,5 @@
-.eslintrc.json
+node_mdules
 .env
+public/uploads
+.eslintrc.json
+.vscode

@@ -4,8 +4,8 @@
   "description": "Project Node.js chat app according to learn with sumit(youtube) project",
   "main": "app.js",
   "scripts": {
-    "start": "cross-env NODE_ENV=development nodemon app.js",
-    "production": "cross-env NODE_ENV=production node app.js"
+    "start": "cross-env NODE_ENV=development & nodemon app.js",
+    "production": "corss-env NODE_ENV=production & node app.js"
   },
   "author": "Saif <saifctec@gmail.com>",
   "license": "UNLICENSED",
